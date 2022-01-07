@@ -1,0 +1,18 @@
+body{
+    background-color: yellow;
+    color:green;
+    text-align: center;
+    
+}
+
+tr,td{
+    position: static;
+    width:30%;
+    border: 1px solid rgb(56, 20, 20);
+    text-align: center;
+}
+
+.buttonwrapper{
+    text-align: center;
+    margin: 50;
+}
